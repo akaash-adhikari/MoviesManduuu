@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MoviesManduuu.git/static/css/main.097224af.css",
-    "main.js": "/MoviesManduuu.git/static/js/main.6fcd4f53.js",
-    "static/js/787.a2f5fe7a.chunk.js": "/MoviesManduuu.git/static/js/787.a2f5fe7a.chunk.js",
-    "index.html": "/MoviesManduuu.git/index.html",
-    "main.097224af.css.map": "/MoviesManduuu.git/static/css/main.097224af.css.map",
-    "main.6fcd4f53.js.map": "/MoviesManduuu.git/static/js/main.6fcd4f53.js.map",
-    "787.a2f5fe7a.chunk.js.map": "/MoviesManduuu.git/static/js/787.a2f5fe7a.chunk.js.map"
+    "main.css": "/akaash-adhikari.github.io/MoviesManduuu.git/static/css/main.097224af.css",
+    "main.js": "/akaash-adhikari.github.io/MoviesManduuu.git/static/js/main.51ced7c9.js",
+    "static/js/787.a2f5fe7a.chunk.js": "/akaash-adhikari.github.io/MoviesManduuu.git/static/js/787.a2f5fe7a.chunk.js",
+    "index.html": "/akaash-adhikari.github.io/MoviesManduuu.git/index.html",
+    "main.097224af.css.map": "/akaash-adhikari.github.io/MoviesManduuu.git/static/css/main.097224af.css.map",
+    "main.51ced7c9.js.map": "/akaash-adhikari.github.io/MoviesManduuu.git/static/js/main.51ced7c9.js.map",
+    "787.a2f5fe7a.chunk.js.map": "/akaash-adhikari.github.io/MoviesManduuu.git/static/js/787.a2f5fe7a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.097224af.css",
-    "static/js/main.6fcd4f53.js"
+    "static/js/main.51ced7c9.js"
   ]
 }
